@@ -22,7 +22,7 @@
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: java , servlet , MySQL  
+- **Backend**: java , servlet , MySQL , JDBC   
 - **Version Control**: Git  
 
 ## Installation
@@ -33,3 +33,8 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/4hmedshanu/inventor_management_system_pro.git
    cd inventor_management_system_pro
+
+   
+Save this as `README.md` in your repository. Let me know if you need further updates!
+git checkout -b feature-name
+
