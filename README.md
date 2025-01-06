@@ -41,5 +41,10 @@ Follow these steps to set up the project locally:
 
    
 Save this as `README.md` in your repository. Let me know if you need further updates!
+
 git checkout -b feature-name
+
+git push origin feature-name
+
+README.md
 
