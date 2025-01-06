@@ -1,6 +1,11 @@
 # Inventor Management System 
 
-**Inventor Management System ** is a streamlined inventory management system designed to help small and medium-sized businesses efficiently track, manage, and update their inventory.
+**Inventor Management System ** is a streamlined inventory management system designed to help small and medium-sized businesses efficiently track, manage, and update their inventory Designed and developed a full-stack web application for inventory
+business model
+● Implemented CRUD operations, optimized database queries, and ensured a
+user-friendly interface
+.
+
 
 ## Features
 
